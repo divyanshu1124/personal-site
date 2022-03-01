@@ -1,0 +1,35 @@
+body {
+background-color: White;
+margin:0;
+text-align: center;
+}
+.top-cloud {
+  position: absolute;
+  right:425px;
+  top:25px;
+}
+.bottom-cloud
+{
+  position: absolute;
+
+}
+
+.top-container {
+background-color: #C1F4C5;
+font-family: 'Merriweather', serif;
+
+
+border-width : 10px;
+padding: 50px 50px 0px;
+}
+
+.middle-container {
+
+
+
+}
+.bottom-container {
+
+
+
+}
