@@ -4,9 +4,8 @@ margin:0;
 text-align: center;
 }
 .top-cloud {
-  position: absolute;
-  right:425px;
-  top:25px;
+  position: relative;
+  left: 225px;
 }
 .bottom-cloud
 {
