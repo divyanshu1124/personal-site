@@ -3,23 +3,69 @@ background-color: #C1F4C5;
 margin:0;
 text-align: center;
 }
+h1{
+  font-size: 60px;
+  margin: 33.2px auto 0px auto;
+  color: #019267;
+  line-height: 1;
+}
+h2{
+  font-size: 2rem;
+    color: #11999E;
+    font-weight:bold;
+}
+h3{
+  font-size: 1.5rem;
+  color: #11999E;
+}
 .top-cloud {
+  width: 15%;
+
   position: relative;
-  left: 225px;
+  left: 300px;
 }
 .bottom-cloud
 {
-  position: absolute;
+  width :15%;
+  position: relative;
+  right: 300px;
 
 }
+.C1{
+  margin: 15px auto;
 
+}
+.C2{
+  margin: 15px auto;
+
+}
 .top-container {
 background-color: #C1F4C5;
 font-family: 'Merriweather', serif;
 
 
 border-width : 10px;
-padding: 50px 50px 0px;
+padding: 30px 50px 0px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px;
+  text-align: left;
+  line-height: 1.5;
+}
+.coding{
+  width: 25%;
+  float: left;
+  position: relative;
+  right: 30px;
+
+}
+.cricket{
+  width: 25%;
+  float: right;
+  position: relative;
+  left: 30px;
+
 }
 
 .middle-container {
@@ -32,3 +78,4 @@ padding: 50px 50px 0px;
 
 
 }
+
